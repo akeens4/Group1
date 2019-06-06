@@ -1,8 +1,8 @@
-# Group1
-Group task for Exercise 4.20 to 4.24(6-6-2019)
-#Names of Group Members
+# Group1<br>
+Group task for Exercise 4.20 to 4.24(6-6-2019)<br>
+#Names of Group Members<br>
 #Dami<br>
-#Tope
-#Chris
-#Darlington
+#Tope<br>
+#Chris<br>
+#Darlington<br>
 #Akin
