@@ -17,13 +17,7 @@ public class largestNumber {
 			}
 			count++;
 		}
-//		for(int count = 0; count < 10; count++) {
-//			System.out.print("Input number here: ");
-//			number = input.nextInt();
-//			if(number > largest) {
-//				largest = number;				
-//			}
-//		}
+
 		System.out.print("\n"+ "The largest number of the 10 numbers is: " + largest);
 		input.close();
 	}
